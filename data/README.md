@@ -20,5 +20,3 @@ below and place them in this folder with the exact filenames given.
 
 | imd2025.csv | MHCLG, English Indices of Deprivation 2025 | https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025 → File 7: IoD2025 All Ranks, Deciles, Scores and Population Denominators |
 
-| absence.csv | DfE, pupil absence in schools in England | https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england → Explore data and files → 1a_Absence_3term_school |
-
