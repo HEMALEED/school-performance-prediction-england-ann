@@ -20,3 +20,4 @@ below and place them in this folder with the exact filenames given.
 
 | imd2025.csv | MHCLG, English Indices of Deprivation 2025 | https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025 → File 7: IoD2025 All Ranks, Deciles, Scores and Population Denominators |
 
+Data counts are as follows: 52,450 / 5,813 / 5,864 / 5,910 / 21,958 / 33,755
