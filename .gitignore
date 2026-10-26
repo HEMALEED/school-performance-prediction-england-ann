@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Data files — raw sources and derived intermediates
+# Documented in data/README.md and reproducible from source.
+data/*
+!data/README.md
