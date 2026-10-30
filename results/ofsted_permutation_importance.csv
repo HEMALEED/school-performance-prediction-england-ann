@@ -1,0 +1,17 @@
+feature,f1_drop_mean,f1_drop_std
+p8_2023,0.1226,0.0135
+a8_2024,0.0501,0.0143
+living_env_score,0.0198,0.0047
+adult_skills_score,0.0171,0.0073
+fsm_pct_2024,0.0164,0.0041
+health_score,0.0136,0.0074
+geo_barriers_score,0.0125,0.0092
+employment_score,0.0088,0.0074
+barriers_score,0.0065,0.0071
+outdoors_score,0.0063,0.0074
+income_score,0.0055,0.0048
+imd_score,0.0049,0.0052
+wider_barriers_score,0.0024,0.0067
+crime_score,-0.0011,0.0076
+indoors_score,-0.0026,0.0077
+idaci_score,-0.0052,0.0089
